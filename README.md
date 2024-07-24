@@ -1,4 +1,4 @@
-2048 Game 
+# 2048 Game 
 Welcome to the 2048 game! This is a simple, fun, and addictive sliding block puzzle game. The objective of the game is to slide numbered tiles on a grid to combine them to create a tile with the number 2048.
 
 Getting Started Prerequisites To run this game, you need to have Python installed on your machine. You can download it from python.org.

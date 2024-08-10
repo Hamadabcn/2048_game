@@ -5,7 +5,7 @@ Getting Started Prerequisites To run this game, you need to have Python installe
 
 Installation Clone the repository to your local machine using the following command:
 
-git clone https://github.com/Hamadabcn/2048.git
+git clone https://github.com/Hamadabcn/2048_game
 
 Navigate to the project directory: cd 2048_game
 

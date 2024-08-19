@@ -3,6 +3,8 @@ Welcome to the 2048 game! This is a simple, fun, and addictive sliding block puz
 
 Getting Started Prerequisites To run this game, you need to have Python installed on your machine. You can download it from python.org.
 
+Then you also need Pygame: pip install pygame.
+
 Installation Clone the repository to your local machine using the following command:
 
 git clone https://github.com/Hamadabcn/2048_game
